@@ -1,4 +1,4 @@
-## Movie Rental System Using Classes and Objects of Python along with json files
+## Movie Rental System Using Classes and Objects with json files
 ### How to install the project
 To use this project you don't need to install it!
 Just can download it..
